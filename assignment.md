@@ -38,9 +38,9 @@ Sitios direccionales y no colaborativos.
 
 Casos de exito
 --------------
-Servicio de publicidad - Doubleclick
-Enciclopedias - Britannica Online
-Comunidades fotográficas - Ofotico
+Servicio de publicidad (Doubleclick).
+Enciclopedias (Britannica Online).
+Comunidades fotográficas (Ofotico).
 
 Web 2.0
 =======
