@@ -85,10 +85,8 @@ Para completar la web semántica, se debe dar un primer paso en Data Web, permit
 
 Historia
 --------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+El termino WEB 3.0 fue mencionado por primera vez en el 2006 en un artículo de Jeffrey Zeldman, pero fue puesta en producción a partir del año 2010, que hace referencia a la web semántica, que este concepto nos quiere hacer referencia al uso del lenguaje en la red. Podemos indicar como un ejemplo a la búsqueda de cualquier contenido utilizando palabras claves.
 
 Caracteristicas 
 ---------------
