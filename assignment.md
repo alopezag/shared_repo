@@ -2,20 +2,16 @@
 
 Resumen
 =======
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+La WEB es un conjunto de documentos interconectados por enlaces de hipertexto, disponibles en Internet que se pueden
+comunicar a través de la tecnología digital, la misma que ha ido evolucionando.
+La web 1.0, fué la primera (apareció hacia 1990) y en ella el contenido era estático. Se trataba de información a la que se podía acceder, pero sin posibilidad de interactuar; era unidireccional. 
+La web 2.0, (apareció en 2004) y contiene foros, blogs y redes sociales. La web 2.0 permite compartir información.
+La web 3.0 (estuvo operativa en el 2010) y se asocia a la web semántica, un concepto que se refiere al uso de un lenguaje en la red.
+La web 4.0. empezó en el 2016 y se centra en ofrecer un comportamiento más inteligente y más predictivo, de modo que podamos, con sólo realizar una afirmación o una llamada, poner en marcha un conjunto de acciones que tendrán como resultando aquello que pedimos, deseamos o decimos.
 
 Introduccion 
 ============
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
+A lo largo del tiempo, la web desde su creación ha evolucionado, hasta permitir que los desarrolladores puedan crear nuevas e increíbles experiencias web. Las líneas entre una etapa y otra no están bien definidas pero se pueden diferenciar por sus características como: la web 1.0 de contenido estático,  la web 2.0 de contenido colaborativo hasta la web 3.0, y la web 4.0 relacionada con la inteligencia artificial.
 
 Web 1.0
 ======= 
