@@ -73,10 +73,15 @@ En la web 2.0 la tecnología está relacionada con JavaScript 2.0, XHTML, google
 
 Web 3.0
 =======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Podemos asociarlo como la tercera generación o evolución del uso y la interacción en la red, dado que en el término como tal WEB 3.0 fue mencionado por primera vez en un artículo de Jeffrey Zeldman en el año 2006.
+
+Como las versiones anteriores, podemos interpretarlo que esta es una versión mejorada de la 2.0, queriendo enfocarla en las siguientes características en la web 3D, web semántica, inteligencia artificial y web Geoespacial.
+
+Al hablar de innovación donde se quiere enfocar al manejo e interpretación de datos semánticos en los diferentes programas inteligentes, vemos también que se quiere concluir la mejor manera de administrar de manera eficiente los datos.
+
+Para completar la web semántica, se debe dar un primer paso en Data Web, permitiendo un nuevo nivel de integración de datos y aplicación inter-operable.
+
 
 Historia
 --------
