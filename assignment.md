@@ -90,10 +90,15 @@ El termino WEB 3.0 fue mencionado por primera vez en el 2006 en un artículo de 
 
 Caracteristicas 
 ---------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Inteligencia: Empleando un método para interpretar los datos y dar una mejor respuesta en base a lo que se desea buscar, clasificándolos para dar una pronta respuesta, aplicando la semántica.
+
+Sociabilidad: El cambio radical que emplearon las diferentes redes sociales, nos abre a un mundo donde una persona puede llegar a tener múltiples perfiles de usuarios, lo que lo hace más complejo y exclusivo.
+
+Rapidez: Hoy en día el uso de las redes como internet, en cuanto a la transmisión de videos, recae en tener una mejor conexión hacia internet y lleva a tener mejores equipos de cómputo.
+
+Semántica:  Clasifica mediante etiquetas para tomar una decisión más rápida interpretando los datos que se requiere buscar.
+
 
 Casos de exito
 --------------
