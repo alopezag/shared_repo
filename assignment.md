@@ -102,10 +102,13 @@ Semántica:  Clasifica mediante etiquetas para tomar una decisión más rápida 
 
 Casos de exito
 --------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Gnoss: Es una red social española, la cual se encarga de generar perfiles a todos los usuarios, al ser una aplicación amigable y puede ir llenando cada perfil de un usuario en base a preguntas y respuestas.
+
+Freedatabase: Herramienta tipo búsqueda de todo tipo contenido, similar a la página Wikipedia, los usuarios pueden agregar cualquier tipo de contenido.
+
+Flipboard: Aplicación similar a las redes sociales Facebook o twitter. Puede integrarse con redes sociales Facebook o MySpace.
+
 
 Comparacion con su predecesor (Web 2.0)
 ---------------------------------------
