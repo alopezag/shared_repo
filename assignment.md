@@ -141,7 +141,4 @@ Mayor interacción del agente virtual en toma de decisiones para las búsquedas 
 Conclusiones 
 ============
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Podemos concluir que la evolución de todas las versiones de WEB, han tenido un gran cambio, innovando y mejorando en cada versión según la necesidad que presentan los usuarios, apuntando a la conexión e interacción con otras personas o con diferentes aplicaciones en tiempo real y realidad.
