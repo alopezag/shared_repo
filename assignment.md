@@ -112,10 +112,8 @@ Flipboard: Aplicación similar a las redes sociales Facebook o twitter. Puede in
 
 Comparacion con su predecesor (Web 2.0)
 ---------------------------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+Mientras que WEB2.0 es una aplicación de escritorio que fue transformada a WEB, el WEB 3.0 es una aplicación WEB que contiene mucho AJAX, es decir, AJAX es la unión de múltiples tecnologías que juntas pueden maximizar lo que requiere un usuario en particular.
 
 Web 4.0
 =======
