@@ -125,10 +125,8 @@ En la WEB 4.0 se quiere potenciar la web semántica con el aporte de la intelige
 
 Historia
 --------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+La WEB 4.0 está pensada para que en un futuro muy cercano desde los años 2029, su funcionamiento sería a la par a la interacción del cerebro humano, según sostiene Raymond Kurzweil.
 
 Caracteristicas 
 ---------------
