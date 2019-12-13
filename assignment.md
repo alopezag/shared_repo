@@ -118,10 +118,10 @@ Mientras que WEB2.0 es una aplicación de escritorio que fue transformada a WEB,
 Web 4.0
 =======
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Esta tecnología se enfoca en apuntar a la experiencia del usuario, de tal manera que se pueda diseñar o crear algún tipo de plataforma, servicios o un producto en específico.
+
+En la WEB 4.0 se quiere potenciar la web semántica con el aporte de la inteligencia artificial, para que los usuarios tengan una mejor experiencia usando estas herramientas.
+
 
 Historia
 --------
